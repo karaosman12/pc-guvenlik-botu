@@ -1,0 +1,14 @@
+{
+    "sender_email": "ornek_gonderen@gmail.com",
+    "app_password": "xxxx xxxx xxxx xxxx",
+    "receiver_email": "ornek_alici@gmail.com",
+    "library_mode": false,
+    "enable_webcam": true,
+    "enable_mouse": true,
+    "enable_screenshot": true,
+    "enable_idle": true,
+    "enable_battery": true,
+    "enable_siren": false,
+    "countdown": "5",
+    "cooldown": "45"
+}

@@ -1,0 +1,23 @@
+# Hassas Kimlik ve E-posta Bilgileri
+config.json
+last_location.json
+
+# Yerel Veritabanı ve Yakalanan Olay Medyası
+security.db
+security.db-journal
+captures/
+
+# Python Önbellek ve Derleme Dosyaları
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyd
+
+# Geliştirme ve Hata Raporları
+HATA_VE_DENETIM_RAPORU.md
+
+# Editör ve İşletim Sistemi Dosyaları
+.vscode/
+.idea/
+Thumbs.db
+Desktop.ini
